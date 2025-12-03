@@ -60,3 +60,9 @@ Botões de editar e excluir com ícones:<br>
 ✏️ Editar
 🗑️ Excluir
 <br>
+✅ Objetivo do Projeto<br>
+<br>
+✔ Exercitar CRUD completo<br>
+✔ Aprender consumo de API REST<br>
+✔ Manipular Firestore sem SDK<br>
+✔ Praticar listagem, hooks e estados<br>
