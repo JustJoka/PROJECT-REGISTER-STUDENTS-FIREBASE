@@ -50,4 +50,4 @@ Botões de editar e excluir com ícones:<br>
 ✔ Praticar listagem, hooks e estados<br>
 <br>
 <br>
-![Preview](https://github.com/JustJoka/REGISTER-STUDENTS-FIREBASE/blob/main/PROJECT-REGISTER-STUDENTS-FIREBASE/Images/Screenshot%202025-12-04%20121500.png?raw=true)
+![Preview](https://github.com/JustJoka/REGISTER-STUDENTS-FIREBASE/blob/main/PROJECT-REGISTER-STUDENTS-FIREBASE/Images/Screenshot%202025-12-04%20121500.png?raw=true) ![Preview](https://github.com/JustJoka/REGISTER-STUDENTS-FIREBASE/blob/main/PROJECT-REGISTER-STUDENTS-FIREBASE/Images/Screenshot%202025-12-04%20121521.png?raw=true)
